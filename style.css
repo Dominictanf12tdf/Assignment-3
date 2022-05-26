@@ -1,0 +1,17 @@
+input, button, select {
+  font-size: 14px;
+  font-family: Nunito, sans-serif;
+  line-height: 1;
+
+  width: 100%;
+  height: 32px;
+  margin-bottom: 12px;
+
+  border: 1px solid #545454;
+  border-radius: 4px;
+  background-color: #f0f0f0;
+}
+
+input:hover, button:hover, select:hover {
+  background-color: #dfdfdf;
+}
